@@ -1,0 +1,149 @@
+.ci
+{
+  background-color: rgba(194, 205, 192, 0.948);
+  border-radius: 100%;
+  margin-top: 30px;
+  height: 410px;
+  box-shadow:2px rgb(223, 233, 140);
+}
+
+@keyframes fadeInFromLeft {
+    from {
+      opacity: 0;
+      transform: translateX(-50px);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+.m1{
+    margin-right: 10px;
+    width: 500px;
+    height: 450px;
+    margin-right: 250px;
+    border-radius: 100%;
+    
+    
+    
+}
+.f1
+{
+    font-size: 60px;
+    font-family: Monaco;
+    transform: translateX(-50px);
+    animation: fadeInFromLeft 3s ease-in-out forwards;
+}
+.f2{
+    font-size: 20px;
+    font-family: ;
+    transform: translateX(-50px);
+    animation: fadeInFromLeft 3s ease-in-out forwards;
+}
+.n1{ 
+
+color: #bfcf44;
+}  
+.nav-item .nav-link{
+    text-decoration: none;
+    color: white;
+}
+.bn39 {
+    background-image: linear-gradient(135deg, #008aff, #86d472);
+    border-radius: 6px;
+    box-sizing: border-box;
+    color: #ffffff;
+    display: block;
+    height: 50px;
+    font-size: 1.4em;
+    font-weight: 600;
+    padding: 4px;
+    position: relative;
+    text-decoration: none;
+    width: 7em;
+    z-index: 2;
+    transform: translateX(-50px);
+    animation: fadeInFromLeft 3s ease-in-out forwards;
+  }
+  
+  .bn39:hover {
+    color: #fff;
+  }
+  
+  .bn39 .bn39span {
+    align-items: center;
+    background: #a8a8ab;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    transition: background 0.5s ease;
+    width: 100%;
+  }
+  
+  .bn39:hover .bn39span {
+    background: transparent;
+  }
+  .mk
+  {
+    background-image: url('static/banner1.png');
+    width: fit-content;
+  }
+  .l5{
+    color:rgb(120, 33, 233) ;
+    font-weight: 500;
+    font-size: 30px;
+  }
+  .hr{
+    width: 150px;
+    height: 3px;
+    background-color: rgb(120, 33, 233);
+    
+    
+  }
+  .lo
+  {
+    width: 300px;
+    height: 200px;
+    display: flex;
+  }
+  .container-pod
+  {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .mlp
+  {
+    background-image: url("static/banner1.png");
+    opacity: 5;
+  }
+  .fa-solid
+  {
+    color: white;
+  }
+  .display-5
+  {
+    color: white;
+  }
+  .col-md-3
+  {
+    border: solid white 1px;
+    padding: 2px;
+  }
+  .KLO
+  {
+    color: black;
+    font-family: sans-serif;
+    font-size: 20px;
+  }
+  .progress-bar{
+background-color:   rgb(120, 33, 233);
+  }
+  *{
+    padding: 0;
+    margin: 0;
+  }
+  .bgl
+  {
+    background-color:   rgb(120, 33, 233);    
+  }
